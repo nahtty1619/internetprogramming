@@ -118,3 +118,37 @@ margin-right: 10px;
     text-decoration: underline;
   }
   
+
+
+/*profile*/
+  .profile-management {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  .profile-section,
+  .enrolled-courses-section,
+  .liked-courses-section {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    color: #007bff;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
